@@ -1,0 +1,7 @@
+dist/
+ddbapi.egg-info
+.ipynb_checkpoints/
+.vscode/
+test/
+.DS_Store
+*.pyc
